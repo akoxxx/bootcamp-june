@@ -1,0 +1,26 @@
+tr.a{
+    background-color:lightcoral;
+    color: white;  
+}
+
+table{
+    text-align: center;
+    border: 2px solid black; 
+    border-collapse: separate;
+    border-spacing: 3px;
+    width: 80%;
+    padding: 2px;
+}
+
+table tr{
+    border: solid 1px white;
+    cursor: pointer;
+}
+tr.odd-number{
+    background-color:peachpuff;
+}
+
+tr.even-number{
+    background-color: white;
+}
+
